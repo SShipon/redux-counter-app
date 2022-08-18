@@ -14,7 +14,7 @@ function Counter({ count, increment, decrement }) {
               {count}
             </h4>
             <button href="#" class="btn btn-success mx-2" onClick={increment}>
-              Increment
+              Increment+
             </button>
             <button href="#" class="btn btn-danger" onClick={decrement}>
               Decrement
