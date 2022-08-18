@@ -23,10 +23,10 @@ function Counter({ count, increment, decrement }) {
         </div>
         <div class="d-flex my-2">
           <button href="#" class="btn btn-primary mx-2 ms-auto" id="addCounter">
-            +Add Counter count this is hello
+            +Add Counter count this is hello very nice
           </button>
           <button href="#" class="btn btn-danger" id="rest">
-            Rest 
+            Rest this is hello i am shipon
           </button>
           {/* updated:fire: */}
         </div>
