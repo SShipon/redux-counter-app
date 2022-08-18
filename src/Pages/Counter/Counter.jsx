@@ -26,7 +26,7 @@ function Counter({ count, increment, decrement }) {
             +Add Counter count this is hello
           </button>
           <button href="#" class="btn btn-danger" id="rest">
-            Rest helllo
+            Rest 
           </button>
           {/* updated:fire: */}
         </div>
